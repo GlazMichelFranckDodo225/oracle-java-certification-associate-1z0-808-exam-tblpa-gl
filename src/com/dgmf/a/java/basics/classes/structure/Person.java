@@ -1,4 +1,4 @@
-package com.dgmf;
+package com.dgmf.a.java.basics.classes.structure;
 
 public class Person {
     // Variables (Attributes)
