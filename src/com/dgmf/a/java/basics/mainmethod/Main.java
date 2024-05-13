@@ -1,4 +1,4 @@
-package com.dgmf.a.java.basics.main.method;
+package com.dgmf.a.java.basics.mainmethod;
 
 /**
  * Javadoc
