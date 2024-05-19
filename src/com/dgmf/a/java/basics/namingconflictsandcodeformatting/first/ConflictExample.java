@@ -20,11 +20,11 @@ public class ConflictExample {
 
     }
 
-    public static void checkEmpty(List list) {
+    /*public static void checkEmpty(List list) {
         if (list.isEmpty) {
             System.out.println("Empty");
         } else {
             System.out.println("Not Empty");
         }
-    }
+    }*/
 }
